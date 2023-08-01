@@ -63,7 +63,7 @@ importers:
       moment-mini: 2.29.4
       non-layered-tidy-tree-layout: 2.0.2
       path-browserify: 1.0.1
-      pnpm: 7.14.1
+      pnpm: 7.33.4
       prettier: 2.7.1
       prettier-plugin-jsdoc: 0.4.2
       remark: 14.0.2
@@ -141,7 +141,7 @@ importers:
       lint-staged: 13.0.3
       markdown-it: 13.0.1
       path-browserify: 1.0.1
-      pnpm: 7.14.1
+      pnpm: 7.33.4
       prettier: 2.7.1
       prettier-plugin-jsdoc: 0.4.2_prettier@2.7.1
       remark: 14.0.2
@@ -10661,8 +10661,8 @@ packages:
     engines: {node: '>=12.13.0'}
     dev: true
 
-  /pnpm/7.14.1:
-    resolution: {integrity: sha512-jxnp3SGzTZcSITKfaTfRrkOJYSeHwlU/rF+K9ofaIeHUYF3zR3Qcy5vl8mm07ECMfWhNjOy2phs2o3Zb41pHAg==}
+  /pnpm/7.33.4:
+    resolution: {integrity: sha512-xEbf/tkwHpGM/GXq5U/sDSiE6ykLPho+o71PHNRWqkVLm6dJe4G/5Pg619Ow32ovekrr7pii5qtfamujB/+1bA==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
